@@ -1,6 +1,4 @@
-# Introducing Myself
-
-Hi there! I am Vivek Ratnu, a Data Analyst.
+# Hi there! I am Vivek, a Data Analyst.
 
 
 
