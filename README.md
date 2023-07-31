@@ -22,5 +22,5 @@
 
 
 ## 🤝 Connect with Me
-  - [Linkedin]()
+  - [Linkedin](https://www.linkedin.com/in/vivek-ratnu-768587270/)
  
